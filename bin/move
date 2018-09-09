@@ -8,4 +8,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
 
-pos = gets.strip
+input = gets.strip
